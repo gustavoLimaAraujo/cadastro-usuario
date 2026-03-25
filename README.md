@@ -1,6 +1,6 @@
 # Cadastro de usuário
 
-Este é um projeto simples e funcional de cadastro de usuários desenvolvido para praticar alguns conceitos de CSS aprendidos em aula, e utilizando um pouco de JavaScript puro. O sistema permite que o usuário insira nome, mensagem e gênero, gerando "cards" visuais dinamicamente na tela.
+Este é um projeto simples e funcional de cadastro de usuários desenvolvido para praticar alguns conceitos de CSS aprendidos em aula( <a href="https://github.com/SPTech-Atividades-de-PI/tipos-de-css">CSS inline, interno e externo</a> e <a href="https://github.com/SPTech-Atividades-de-PI/flex-box-atividade-01">Flexbox</a>), e utilizando um pouco de JavaScript puro. O sistema permite que o usuário insira nome, mensagem e gênero, gerando "cards" visuais dinamicamente na tela.
 
 ## Funcionalidades
 
